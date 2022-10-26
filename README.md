@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning web development at Trybe.
 - 📫 How to reach me: raquel.wurzler@hotmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love animals
+- ⚡ Fun fact: I love animals 🐶 🐱 🐦
 
 <div align="center">
   <a href="https://github.com/Raquel-Wurzler">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raquel-Wurzler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquel-Wurzler&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Raquel-Wurzler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquel-Wurzler&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 </div>
