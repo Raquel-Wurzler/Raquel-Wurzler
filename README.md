@@ -1,4 +1,4 @@
-# Hi!! I'm Raquel Gomes C Würzler 😄
+# Hi!! I'm Raquel  😄
 
 - 🔭 I’m currently in career transition to web development career.
 - 🌱 I’m currently learning web development at Trybe.
